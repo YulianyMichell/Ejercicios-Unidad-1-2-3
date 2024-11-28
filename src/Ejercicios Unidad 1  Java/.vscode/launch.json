@@ -1,0 +1,70 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Cuentabancaria",
+            "request": "launch",
+            "mainClass": "Cuentabancaria",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "FizzBuzz",
+            "request": "launch",
+            "mainClass": "FizzBuzz",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "TiendaDeRopa",
+            "request": "launch",
+            "mainClass": "TiendaDeRopa",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "condicional",
+            "request": "launch",
+            "mainClass": "condicional",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "operadores",
+            "request": "launch",
+            "mainClass": "operadores",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "tresmedia",
+            "request": "launch",
+            "mainClass": "tresmedia",
+            "projectName": "Ejercicios Java_31c9eb27"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Ejercicios Java_31c9eb27"
+        }
+    ]
+}
